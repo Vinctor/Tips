@@ -41,4 +41,4 @@ publish {
 chmod +x gradlew
 
 //run
-./gradlew clean build bintrayUpload -PbintrayUser=vinctor -PbintrayKey=xxxxxxxxxxxxxxxxx -PdryRun=false
+./gradlew clean build bintrayUpload -PbintrayUser=xcht1209 -PbintrayKey=xxxxxxxxxxxxxxxxx -PdryRun=false
