@@ -15,7 +15,7 @@ allprojects {
 ext {
     userOrg = 'xcht1209'
     groupId = 'com.vinctor'
-    publishVersion = '1.0.0'
+    publishVersion = '0.0.1'
     website = 'https://github.com/Vinctor/xxxxxxx'x
     licences = ['Apache-2.0']
 }
