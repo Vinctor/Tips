@@ -35,6 +35,8 @@ publish {
     licences = rootProject.licences
 }
 
+//if
+
 
 //build
 //with solve the issue ' Permission denied'
