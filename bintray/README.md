@@ -39,6 +39,7 @@ apply plugin: 'bintray-release'
 //if have the issue about lint
 
     lintOptions {
+        checkReleaseBuilds false
         abortOnError false
     }
 add the above code in the ```android``` of the app moudle 
