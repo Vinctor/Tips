@@ -23,7 +23,7 @@ add
 
 
 
-## in the library which will up to bintray
+## in the library which will upload to bintray
 apply plugin: 'bintray-release'
 
     publish {
