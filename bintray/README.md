@@ -24,7 +24,9 @@ add
 
 
 ## in the library which will upload to bintray
-apply plugin: 'bintray-release'
+
+add the apply
+>apply plugin: 'bintray-release'
 
     publish {
         artifactId = 'xxxxx'x
